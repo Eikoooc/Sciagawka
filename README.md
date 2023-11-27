@@ -1,2 +1,1 @@
 # Sciagawka
-dupa
